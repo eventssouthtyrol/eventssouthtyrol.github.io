@@ -154,11 +154,11 @@ a {
             position: relative;
             background: darkred;
             margin-top: 2px;
-            margin-left: 2px;
-            margin-right: 2px;
+            margin-left: 0px;
+            margin-right: 0px;
 margin-bottom: 2px;
             padding: 20px;
-            width: 140px;
+            width: 120px;
             height: 15px;
             display:inline-block;margin-right:10px;
         }
@@ -167,7 +167,7 @@ margin-bottom: 2px;
             position: relative;
             background: darkred;
             padding: 20px;
-            width: 140px;
+            width: 120px;
             height: 15px;
             display:inline-block;margin-right:10px;
             margin-left: 0px;
